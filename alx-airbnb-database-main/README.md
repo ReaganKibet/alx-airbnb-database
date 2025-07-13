@@ -78,6 +78,6 @@ The ERD was created using [Draw.io](https://app.diagrams.net).
 
 ## ✍️ Author
 
-Elizabeth Omari  
-GitHub: [@nyamanyi22](https://github.com/nyamanyi22)
+Reagan Langat
+GitHub: (https://github.com/reagankibet)
 
